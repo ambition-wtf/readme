@@ -12,6 +12,8 @@ I **NEED** you to to tell me what is working and what isn’t.
 
 This is a living, growing document 🌱 that if you’re reading, I hope you will play a part in watering, nurturing, 🪴 and developing.
 
+---
+
 ### Why this exists?
 
 Solo dev work is easy. Group dev is hard.
@@ -34,7 +36,7 @@ As a dev, the Developer Experience is _literally_ one of my highest values. I’
 
 #### Expectations
 
-I don’t write the best code.
+I don’t write the best code.<br />
 So I don’t expect you to.
 
 But I do iterate a LOT.
@@ -79,6 +81,6 @@ If ANYTHING is unclear, please ask me.
 
 ---
 
-## QUESTS
+## Quests
 
 > 🚧 TODO
