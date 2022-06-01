@@ -37,10 +37,10 @@ As a dev, the Developer Experience is _literally_ one of my highest values. I’
 #### Expectations
 
 I don’t write the best code.<br />
-So I don’t expect you to.
+&nbsp;&nbsp;&nbsp;&nbsp;So I don’t expect you to.
 
-But I do iterate a LOT.
-So I expect you to do this is as well.
+But I do iterate a LOT.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;So I expect you to do this is as well.
 
 Iteration is a superpower. Refactors are friends.
 
