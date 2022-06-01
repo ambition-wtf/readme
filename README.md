@@ -62,20 +62,20 @@ If ANYTHING is unclear, please ask me.
 - <ins>JavaScript</ins>
   - No semicolons, because less is more
   - Prefer Typescript, because fewer bugs
-- Solidity
+- <ins>Solidity</ins>
   - 100% test code coverage before deployment to testnet
   - Deployment to testnet before mainnet
   - Because once it's deployed, there's no takesy-backsies
-- Github
+- <ins>Github</ins>
   - Commits
     - Frequently, progressively, incrementally
   - Pull requests
     - Small to respect reviewer's time
     - Detailed descriptions of work completed with screenshots of work if applicable
-- If you're blocked
-  - <1 hour → google it
-  - > 1 hour → contact me
-  - times are rough, if you think I'll know the answer immediately, then immediately ask me!
+- <ins>If you're blocked</ins>
+  - for less than an hour → google it
+  - for more than an hour → contact me
+  - these times are rough, if you think I'll know the answer immediately, then immediately ask me! _(save BOTH of us time!)_
 
 ---
 
