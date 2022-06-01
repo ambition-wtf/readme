@@ -1,19 +1,16 @@
 # ambition README
 
-## Sections
-
-1. Dev Guidelines
-2. 🚧 TODO: Quests
-
-> But first, a word from our sponsor: gratitude!
+## A word from our sponsor: gratitude! 🙏
 
 Thank you SO much for joining the Collaboration team with Ambition.
+
 This is the start of something epic: a new model for decentralized creative work at scale.
 
 That being said, because this is only the beginning, we’re still figuring out how to do this along the way.
+
 I **NEED** you to to tell me what is working and what isn’t.
 
-This is a living, growing document that if you’re reading, I hope you will play a part in watering, nurturing, and developing.
+This is a living, growing document 🌱 that if you’re reading, I hope you will play a part in watering, nurturing, 🪴 and developing.
 
 ### Why this exists?
 
@@ -53,7 +50,7 @@ Please submit and share your work early, in draft state, to save BOTH of us time
 I WILL frequently request changes, it’s nothing personal.
 Hopefully it can be a learning experience, and will save BOTH of us time.
 
-If ANYTHING is unclear, please ask.
+If ANYTHING is unclear, please ask me.
 
 #### Standards
 
@@ -62,7 +59,7 @@ If ANYTHING is unclear, please ask.
 
 #### Guidelines
 
-- JavaScript
+- <ins>JavaScript</ins>
   - No semicolons, because less is more
   - Prefer Typescript, because fewer bugs
 - Solidity
@@ -76,7 +73,7 @@ If ANYTHING is unclear, please ask.
     - Small to respect reviewer's time
     - Detailed descriptions of work completed with screenshots of work if applicable
 - If you're blocked
-  - < 1 hour → google it
+  - <1 hour → google it
   - > 1 hour → contact me
   - times are rough, if you think I'll know the answer immediately, then immediately ask me!
 
